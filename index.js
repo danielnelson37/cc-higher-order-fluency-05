@@ -30,6 +30,6 @@ console.log(orderAlumni(alumni))
 
 //Question 3: every
 function allUseJavaScript (arrOfObj){
-    return arrOfObj.every(el => el.language === "Javascript")
+    return arrOfObj.every(el => el.language === "JavaScript")
 }
 console.log(allUseJavaScript(alumni));
